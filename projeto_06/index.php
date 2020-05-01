@@ -19,7 +19,7 @@
 				</div><!--icons-social-->
 				<div class="clear"></div>
 				<div class="logo">
-					Danki.Code
+					Persona.Code
 				</div><!--logo-->
 				<nav class="desktop">
 					<ul>
@@ -129,7 +129,7 @@
 				<div class="w50 equipe-single">
 					<div class="topo-box-usuario">
 						<div class="box-avatar"></div><div class="info-usuario">
-							<p style="font-weight: bold;">Guilherme Grillo</p>
+							<p style="font-weight: bold;">Ramon D'barssoles</p>
 							<p style="font-weight: italic;">CEO / Instrutor</p>
 						</div>
 					</div><!--topo-box-usuario-->
@@ -141,7 +141,7 @@
 				<div class="w50 equipe-single">
 					<div class="topo-box-usuario">
 						<div class="box-avatar"></div><div class="info-usuario">
-							<p style="font-weight: bold;">Guilherme Grillo</p>
+							<p style="font-weight: bold;">Ramon D'barssoles</p>
 							<p style="font-weight: italic;">CEO / Instrutor</p>
 						</div>
 					</div><!--topo-box-usuario-->
@@ -153,7 +153,7 @@
 				<div class="w50 equipe-single">
 					<div class="topo-box-usuario">
 						<div class="box-avatar"></div><div class="info-usuario">
-							<p style="font-weight: bold;">Guilherme Grillo</p>
+							<p style="font-weight: bold;">Ramon D'barssoles</p>
 							<p style="font-weight: italic;">CEO / Instrutor</p>
 						</div>
 					</div><!--topo-box-usuario-->
@@ -164,7 +164,7 @@
 				<div class="w50 equipe-single">
 					<div class="topo-box-usuario">
 						<div class="box-avatar"></div><div class="info-usuario">
-							<p style="font-weight: bold;">Guilherme Grillo</p>
+							<p style="font-weight: bold;">Ramon D'barssoles</p>
 							<p style="font-weight: italic;">CEO / Instrutor</p>
 						</div>
 					</div><!--topo-box-usuario-->
